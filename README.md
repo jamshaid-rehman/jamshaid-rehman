@@ -1,16 +1,96 @@
-## Hi there 👋
+# 👋 Hi there, I'm Muhammad Jamshaid Rehman!
 
-<!--
-**jamshaid-rehman/jamshaid-rehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Table of Contents
+- [About Me](#-about-me)
+- [Skills](#️-skills)
+- [My GitHub Repositories](#-my-github-repositories)
+- [Stats & GitHub Activity](#-stats--github-activity)
+- [Contact Me](#-contact-me)
+- [My Goals](#-my-goals)
+
+---
+
+## 🧭 About Me
+
+**Full Name:** Muhammad Jamshaid Rehman  
+**University:** [Your University Name]  
+**Department:** [Your Department Name]
+
+Hello! I’m a passionate learner who loves exploring **technology, programming, and creative projects**.  
+I enjoy solving problems, building things from scratch, and continuously improving my skills.
+
+> 💬 *"The expert in anything was once a beginner."*
+
+**Interests:** Programming, Web Development, Statistics, and AI.  
+**Goals:** To become a skilled full-stack developer and contribute to open-source projects.
+
+---
+
+## 🛠️ Skills
+
+Here are some of my technical skills:
+
+- 💻 C++  
+- 🌐 HTML / CSS / JavaScript  
+- 🐍 Python  
+- 📊 Statistics & Data Visualization  
+- ⚙️ Git & GitHub  
+
+---
+
+## 📂 My GitHub Repositories
+
+> Some of my recent repositories and what they do:
+
+1. [**C++ Fundamentals**](https://github.com/YourUsername/CppFundamentals)  
+   📘 *Programs to strengthen basics of C++ such as arrays, loops, and recursion.*
+
+2. [**WebDev Projects**](https://github.com/YourUsername/WebDevProjects)  
+   🌐 *HTML, CSS, and JS mini-projects to build web design skills.*
+
+3. [**Data Analysis Project**](https://github.com/YourUsername/DataAnalysisProject)  
+   📊 *Exploring data visualization and probability concepts.*
+
+| **Project** | **Description** | **Status** |
+|--------------|------------------|-------------|
+| C++ Practice | Problem-solving and algorithms | ✅ Completed |
+| Web Portfolio | Personal website using HTML/CSS | 🧩 In Progress |
+| Social Media Survey | Statistical data project | 🚀 Ongoing |
+
+---
+
+## 📊 Stats & GitHub Activity
+
+![Muhammad Jamshaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+---
+
+## ✨ Contact Me
+
+📧 **Email:** [yourname@email.com](mailto:yourname@email.com)  
+🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🌍 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+## ✅ My Goals
+
+- [x] Learn Git and GitHub  
+- [x] Build my first README profile  
+- [ ] Upload my C++ project  
+- [ ] Create a portfolio website  
+- [ ] Contribute to open source  
+
+---
+
+📝 *This README was created as part of the “Markdown Assignment: GitHub Profile README” lab exercise.*
+
+---
+
+
