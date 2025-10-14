@@ -67,9 +67,9 @@ Here are some of my technical skills:
 
 ## 📊 Stats & GitHub Activity
 
-![Muhammad Jamshaid's GitHub stats](https://github-readme-stats.vercel.app/api?[username=YourGitHubUsername](https://github.com/jamshaid-rehman)&show_icons=true&theme=radical)
+![Muhammad Jamshaid's GitHub stats](https://github-readme-stats.vercel.app/api?(https://github.com/jamshaid-rehman)&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?[username=YourGitHubUsername](https://github.com/jamshaid-rehman)&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?(https://github.com/jamshaid-rehman)&layout=compact&theme=radical)
 
 ---
 
