@@ -67,7 +67,8 @@ Here are some of my technical skills:
 
 ## 📊 Stats & GitHub Activity
 
-![Muhammad Jamshaid's GitHub stats](https://github-readme-stats.vercel.app/api?(https://github.com/jamshaid-rehman)&show_icons=true&theme=radical)
+![Muhammad Jamshaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamshaid-rehman&show_icons=true&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?(https://github.com/jamshaid-rehman)&layout=compact&theme=radical)
 
@@ -77,6 +78,7 @@ Here are some of my technical skills:
 
 📧 **Email:** [jamshaidrehman374@gmail.com](mailto:jamshaidrehman374@gmail.com)  
 🔗 **HackerRank:** [My HAcker Rank Account ](https://www.hackerrank.com/profile/jamshaidrehman31) 
+<br>
 🌍 **Portfolio:** [my Portfolio](https://muhammad-jamshaid-rehman-0kiiuff.gamma.site/)
 
 ---
