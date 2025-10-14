@@ -76,7 +76,7 @@ Here are some of my technical skills:
 ## ✨ Contact Me
 
 📧 **Email:** [jamshaidrehman374@gmail.com](mailto:jamshaidrehman374@gmail.com)  
-🔗 **HackerRank:** [(https://www.hackerrank.com/profile/jamshaidrehman31)](https://www.hackerrank.com/profile/jamshaidrehman31) 
+🔗 **HackerRank:** [My HAcker Rank Account ](https://www.hackerrank.com/profile/jamshaidrehman31) 
 🌍 **Portfolio:** [my Portfolio](https://muhammad-jamshaid-rehman-0kiiuff.gamma.site/)
 
 ---
@@ -91,8 +91,7 @@ Here are some of my technical skills:
 
 ---
 
-📝 *This README was created as part of the “Markdown Assignment: GitHub Profile README” lab exercise.*
 
----
+
 
 
