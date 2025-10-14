@@ -48,13 +48,13 @@ Here are some of my technical skills:
 
 > Some of my recent repositories and what they do:
 
-1. [**Some Data Structures Algorithms **]((https://github.com/jamshaid-rehman/Recurrsion-Problems))  
+1. [**Some Data Structures Algorithms **](https://github.com/jamshaid-rehman/Recurrsion-Problems)  
    📘 *Programs to strengthen basics of C++ such as arrays, loops, and recursion.*
 
-2. [**WebDev Projects**]((https://github.com/jamshaid-rehman/AICT-Project-1))  
+2. [**WebDev Projects**](https://github.com/jamshaid-rehman/AICT-Project-1))  
    🌐 *HTML, CSS, and JS mini-projects to build web design skills.*
 
-3. [**Data Analysis Project**]((https://github.com/jamshaid-rehman/Impact-of-Social-Media-Breaks-on-prooductivity-))  
+3. [**Data Analysis Project**](https://github.com/jamshaid-rehman/Impact-of-Social-Media-Breaks-on-prooductivity-)
    📊 *Exploring data visualization and probability concepts.*
 
 | **Project** | **Description** | **Status** |
