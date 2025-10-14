@@ -16,9 +16,9 @@
 
 ## 🧭 About Me
 
-**Full Name:** [Muhammad Jamshaid Rehman]  
-**University:** [Punjab University College of Information  and Technology]  
-**Department:** [BS Data Science]
+**Full Name:** Muhammad Jamshaid Rehman 
+**University:** Punjab University College of Information  and Technology  
+**Department:** BS Data Science
 
 Hello! I’m a passionate learner who loves exploring **technology, programming, and creative projects**.  
 I enjoy solving problems, building things from scratch, and continuously improving my skills.
@@ -74,7 +74,7 @@ Here are some of my technical skills:
 ## ✨ Contact Me
 
 📧 **Email:** [jamshaidrehman374@gmail.com](mailto:jamshaidrehman374@gmail.com)  
-🔗 **HackerRank:** [[(https://www.hackerrank.com/profile/jamshaidrehman31)](https://www.hackerrank.com/profile/jamshaidrehman31)]  
+🔗 **HackerRank:** [(https://www.hackerrank.com/profile/jamshaidrehman31)](https://www.hackerrank.com/profile/jamshaidrehman31) 
 🌍 **Portfolio:** [my Portfolio](https://muhammad-jamshaid-rehman-0kiiuff.gamma.site/)
 
 ---
