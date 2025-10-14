@@ -74,8 +74,8 @@ Here are some of my technical skills:
 ## ✨ Contact Me
 
 📧 **Email:** [jamshaidrehman374@gmail.com](mailto:jamshaidrehman374@gmail.com)  
-🔗 **HackerRank:** [[linkedin.com/in/yourprofile](https://www.hackerrank.com/profile/jamshaidrehman31)]  
-🌍 **Portfolio:** [yourwebsite.com]((https://muhammad-jamshaid-rehman-0kiiuff.gamma.site/))
+🔗 **HackerRank:** [[(https://www.hackerrank.com/profile/jamshaidrehman31)](https://www.hackerrank.com/profile/jamshaidrehman31)]  
+🌍 **Portfolio:** [my Portfolio](https://muhammad-jamshaid-rehman-0kiiuff.gamma.site/)
 
 ---
 
