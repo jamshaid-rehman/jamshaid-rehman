@@ -17,7 +17,9 @@
 ## 🧭 About Me
 
 **Full Name:** Muhammad Jamshaid Rehman 
+<br>
 **University:** Punjab University College of Information  and Technology  
+<br>
 **Department:** BS Data Science
 
 Hello! I’m a passionate learner who loves exploring **technology, programming, and creative projects**.  
