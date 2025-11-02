@@ -1,7 +1,11 @@
 # 👋 Hi there, I'm Muhammad Jamshaid Rehman!
 
 
-![Banner](https://raw.githubusercontent.com/jamshaid-rehman/jamshaid-rehman/main/1102.mp4)
+<video width="100%" autoplay loop muted playsinline>
+  <source src="https://raw.githubusercontent.com/jamshaid-rehman/jamshaid-rehman/main/1102.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
