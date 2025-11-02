@@ -2,7 +2,8 @@
 
 
 
-![banner](https://raw.githubusercontent.com/jamshaid-rehman/jamshaid-rehman/main/1102.mp4" type="video/mp4)
+![banner](https://raw.githubusercontent.com/jamshaid-rehman/jamshaid-rehman/main/banner.gif)
+
 
 
 
