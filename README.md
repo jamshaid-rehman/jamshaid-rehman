@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Muhammad Jamshaid Rehman!
 
-![Banner](https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif)
-
 ---
 
 ## 🧭 Table of Contents
