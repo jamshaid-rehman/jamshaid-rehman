@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Muhammad Jamshaid Rehman!
 
 
-![Banner](file:///d%3A/3rd%20semester/Intorduction%20to%20data%20science/my%20poryfolio/jamshaid-rehman/1102.mp4)
+![Banner](blob:https://jitter.video/6656e810-9b6f-446f-b0b2-930a3cf4ed71)
 
 ---
 
