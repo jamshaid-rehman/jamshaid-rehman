@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Muhammad Jamshaid Rehman!
 
 
-![Banner](https://github.com/jamshaid-rehman/jamshaid-rehman/raw/main/1102.mp4)
+![Banner](https://raw.githubusercontent.com/jamshaid-rehman/jamshaid-rehman/main/1102.mp4)
 
 ---
 
