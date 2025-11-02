@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Muhammad Jamshaid Rehman!
 
+
 ![Banner](blob:https://jitter.video/6656e810-9b6f-446f-b0b2-930a3cf4ed71)
 
 ---
@@ -9,16 +10,18 @@
 - [Skills](#️-skills)
 - [My GitHub Repositories](#-my-github-repositories)
 - [Stats & GitHub Activity](#-stats--github-activity)
-- [Contact Me](#-contact-me)
+- [Contact Me](jamshaidrehman7374@gmail.com)
 - [My Goals](#-my-goals)
 
 ---
 
 ## 🧭 About Me
 
-**Full Name:** Muhammad Jamshaid Rehman  
-**University:** [Your University Name]  
-**Department:** [Your Department Name]
+**Full Name:** Muhammad Jamshaid Rehman 
+<br>
+**University:** Punjab University College of Information  and Technology  
+<br>
+**Department:** BS Data Science
 
 Hello! I’m a passionate learner who loves exploring **technology, programming, and creative projects**.  
 I enjoy solving problems, building things from scratch, and continuously improving my skills.
@@ -46,36 +49,35 @@ Here are some of my technical skills:
 
 > Some of my recent repositories and what they do:
 
-1. [**C++ Fundamentals**](https://github.com/YourUsername/CppFundamentals)  
+1. [**Some Data Structures Algorithms **](https://github.com/jamshaid-rehman/Recurrsion-Problems) 
    📘 *Programs to strengthen basics of C++ such as arrays, loops, and recursion.*
 
-2. [**WebDev Projects**](https://github.com/YourUsername/WebDevProjects)  
+2. [**WebDev Projects**](https://github.com/jamshaid-rehman/AICT-Project-1)  
    🌐 *HTML, CSS, and JS mini-projects to build web design skills.*
 
-3. [**Data Analysis Project**](https://github.com/YourUsername/DataAnalysisProject)  
+3. [**Data Analysis Project**](https://github.com/jamshaid-rehman/Impact-of-Social-Media-Breaks-on-prooductivity-) 
    📊 *Exploring data visualization and probability concepts.*
 
 | **Project** | **Description** | **Status** |
 |--------------|------------------|-------------|
 | C++ Practice | Problem-solving and algorithms | ✅ Completed |
 | Web Portfolio | Personal website using HTML/CSS | 🧩 In Progress |
-| Social Media Survey | Statistical data project | 🚀 Ongoing |
+| Social Media Survey | Statistical data project | ✅  completed |
 
 ---
 
 ## 📊 Stats & GitHub Activity
 
-![Muhammad Jamshaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Muhammad Jamshaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamshaid-rehman&show_icons=true&theme=radical)
 
 ---
 
 ## ✨ Contact Me
 
-📧 **Email:** [yourname@email.com](mailto:yourname@email.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌍 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+📧 **Email:** [jamshaidrehman374@gmail.com](mailto:jamshaidrehman374@gmail.com)  
+🔗 **HackerRank:** [My HAcker Rank Account ](https://www.hackerrank.com/profile/jamshaidrehman31) 
+<br>
+🌍 **Portfolio:** [my Portfolio](https://muhammad-jamshaid-rehman-0kiiuff.gamma.site/)
 
 ---
 
@@ -89,8 +91,7 @@ Here are some of my technical skills:
 
 ---
 
-📝 *This README was created as part of the “Markdown Assignment: GitHub Profile README” lab exercise.*
 
----
+
 
 
