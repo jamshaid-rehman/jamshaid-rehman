@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Muhammad Jamshaid Rehman!
 
 
-![Banner](blob:https://jitter.video/6656e810-9b6f-446f-b0b2-930a3cf4ed71)
+![Banner](https://drive.google.com/file/d/1LeVrDXPb2DtY7mhaorMl8wN6jMFLd8DE/view?usp=sharing)
 
 ---
 
